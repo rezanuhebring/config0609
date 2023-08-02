@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACC Network
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://i.imgur.com/iLXjMvB.png" group-title="Sports",ACI Sport TV
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="",ADi TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="Sports",Adventure Sports TV
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch4.m3u8
@@ -37,6 +43,12 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 #EXTINF:-1 tvg-id="BBSTV.id" tvg-logo="https://i.imgur.com/cdfkh6N.png" group-title="",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",beIN SPORTS XTRA
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Sports",BEK Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports",Bellator MMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="News",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuEnglish.id" tvg-logo="https://i.imgur.com/SIgwO6M.png" group-title="News",BeritaSatu English
@@ -67,6 +79,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CahayaTVBanten.id" tvg-logo="https://i.imgur.com/Ph9yYpb.png" group-title="",Cahaya TV Banten
 https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CampusLore.us" tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="Sports",CampusLore
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="CelebesTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="",Celebes TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 tvg-id="Channel4U.id" tvg-logo="https://seeklogo.com/images/C/channel-4u-maxstream-logo-E4A5CAF8C2-seeklogo.com.png" group-title="",Channel 4U
@@ -102,18 +118,38 @@ https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/oLmgGDG.png" group-title="Sports",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1 tvg-id="ESTV.us" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Sports",ESTV
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FajarTV.id" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="",Fajar TV
 http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-title="",Fatwa TV
 https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 #EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="Entertainment",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Fight.us" tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="Sports",Fight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId=
+#EXTINF:-1 tvg-id="FightingSpirit.us" tvg-logo="https://i.imgur.com/PoI9jpp.png" group-title="Sports",Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="Sports",Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 tvg-id="FTF.us" tvg-logo="https://i.imgur.com/wCAwYZ7.png" group-title="Sports",FTF
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="",Garuda TV
 http://stream.garuda.tv/live/garudatv/playlist.m3u8
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png" group-title="",GPR TV
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="grvty.us" tvg-logo="https://i.imgur.com/7qPKYVh.png" group-title="Sports",grvty
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Hijrah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch8.m3u8
@@ -123,6 +159,8 @@ https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="",I Am Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sports",IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="Entertainment",Indonesiana.TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="General",Indosiar
@@ -153,18 +191,28 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 https://app-etslive-2.vidio.com/live/9714/master.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="",JTV
 https://app-etslive-2.vidio.com/live/9713/master.m3u8
+#EXTINF:-1 tvg-id="KBPSports.us" tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Sports",KBP Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",Kompas TV
 https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Sports",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png" group-title="Shop",Lejel Home Shopping
 https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
 #EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Music;News;Religious",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="Sports",MadeinBO TV
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Maleo.id" tvg-logo="https://i.imgur.com/DuAxIL2.png" group-title="",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="Sports",MAVTV
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="Sports",MAVTV Select
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/eU4aqWy.png" group-title="",Max2U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 #EXTINF:-1 tvg-id="MCC.id" tvg-logo="https://i.imgur.com/aACrLKU.png" group-title="",MCC
@@ -182,6 +230,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="Sports",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="",MTA TV
@@ -199,27 +251,57 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="NabawiTV.id" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="",Nabawi TV
 https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
+#EXTINF:-1 tvg-id="NESN.us" tvg-logo="https://i.imgur.com/Lv1bUG5.png" group-title="Sports",NESN
+https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="",NET.
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 #EXTINF:-1 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Niaga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1 tvg-id="NitroCircus.us" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Sports",Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/q6uqktq.png" group-title="",O Channel
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" group-title="Culture;General;Music;News",Online TV Nusantara
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports",Pac-12 Insider
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="",Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="",Palembang TV
 https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="Sports",PBR RidePass
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
+#EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-logo="https://i.imgur.com/fmyakPG.png" group-title="Sports",Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="Sports",Pluto TV Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Sports",Pluto TV Glory Kickboxing
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5417a212ff9fba68282fbf5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=736&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-logo="https://i.imgur.com/hT6m7aG.png" group-title="Sports",Pluto TV Qwest TV Jazz & Beyond
+https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSportItaly.it" tvg-logo="https://i.imgur.com/y22ElOr.png" group-title="Sports",Pluto TV Sport Italy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Sports",Pluto TV Sports UK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVUnbeatenEsports.us" tvg-logo="https://i.imgur.com/s1p79cp.png" group-title="Entertainment",Pluto TV Unbeaten Esports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="",PONTV
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="Music",Pop Musik
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="",Puja TV Aceh
 https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-logo="https://i.imgur.com/qyqa1eA.png" group-title="",Radar Lampung TV
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="",Radar Tasikmalaya TV
@@ -262,14 +344,40 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="Simpang5TV.id" tvg-logo="https://i.imgur.com/jZowqIT.png" group-title="",Simpang5 TV
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="Sports",Sky Thoroughbred Central
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1 tvg-id="SMTV.id" tvg-logo="https://i.imgur.com/Jlz0Vhq.png" group-title="",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Sports",Sportitalia 24
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaMotori.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Motori
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Sports",SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Sportskool.us" tvg-logo="https://i.imgur.com/R6FsKYj.png" group-title="Sports",Sportskool
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="Sports",Sports TV Plus
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Sportswire.us" tvg-logo="https://i.imgur.com/EyTwfjh.png" group-title="Sports",Sportswire
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",SportyStuff TV
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports",Stadium
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Sunnah Jalan Pasti TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="Sports",Super Tennis
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/pjYTa3P.png" group-title="",Tawaf TV
@@ -278,12 +386,16 @@ https://app-etslive-2.vidio.com/live/12607/master.m3u8
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="Culture;Education",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV
 https://video.detik.com/transtv/smil:transtv-live.smil/index.m3u8
+#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Lifestyle",TV Kesehatan
@@ -356,6 +468,18 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Legislative",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="Sports",TVS Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="Sports",TVS Classic Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Sports",TVS Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Sports Bureau
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Sports",TVS Turbo
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Sports",TVS Women Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTempo.id" tvg-logo="https://i.imgur.com/mSsOaqy.png" group-title="",TV Tempo
@@ -367,11 +491,19 @@ http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
 https://h1.intechmedia.net/intech/ch27.m3u8
 #EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UseePhoto.id" tvg-logo="https://i.imgur.com/cKbCEni.png" group-title="",Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 tvg-id="UseePrime.id" tvg-logo="https://i.imgur.com/DqizBAD.png" group-title="",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-id="W14DKD5.us" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sports",W14DK-D5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTourItaly.it" tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Sports",World Poker Tour Italy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="",Zee Bioskop
 https://app-etslive-2.vidio.com/live/6399/master.m3u8
